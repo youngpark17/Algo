@@ -65,7 +65,7 @@ public class Main {
 				x=temp; //깊이가 깊은 것을 x로 바꿈. x가 깊이가 더 큼.
 			}
 			
-			while(depth[x]!=depth[y]) {
+			while(depth[x]!=depth[y]) { //같은 높이가 될때까지 x를 올림.
 				x=parent[x];
 			}
 			
