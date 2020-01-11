@@ -49,9 +49,7 @@ public class Main {
 				
 			}
 		}
-		for(String t : everyTmp) {
-			System.out.println(t);
-		}
+
 
 		int answer=0;
 		for(String t : everyTmp) {
