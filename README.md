@@ -3,6 +3,8 @@
 ## 모든 문제는 자바로 풀이.
 
 
+[백준 1248 골드 3 백트래킹](https://github.com/youngpark17/Algo/commit/1fe7dbfe660011a1d86f3463d8d9184b0dc53dc6)
+
 백준 1339
 
 백준 2003
