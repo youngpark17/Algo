@@ -8,7 +8,6 @@ public class Main {
 	static int m;
 	static int[][] arr;
 	static int[][] visited;
-	static int[][] distance;
 	static int[] dx = {-1,0,0,1};
 	static int[] dy = {0,1,-1,0};
 
@@ -24,13 +23,7 @@ public class Main {
 		m = Integer.parseInt(tmp[1]);
 		arr = new int[n][m];
 		visited = new int[n][m];
-		distance = new int[n][m];
-		for(int i=0; i<n; i++) {
-			for(int j=0; j<m; j++) {
-				distance[i][j] = Integer.MAX_VALUE;
-			}
-		}
-		distance[0][0]=0;
+		
 		for(int i=0; i<n; i++) {
 			char[] tmp2 = br.readLine().toCharArray();
 			for(int j=0; j<m;j++) {
