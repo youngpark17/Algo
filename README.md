@@ -1,6 +1,7 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 2206 벽 부수고 이동하기 골드4 bfs](https://github.com/youngpark17/Algo/commit/8682e2db5357f8fe53a8da063af454828f475073)
 
 [백준 1080 행렬 실버 2 그리디](https://github.com/youngpark17/Algo/commit/1baee55ec5a52bbc4732308a565db3063e815a10)
 
