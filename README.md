@@ -2,6 +2,7 @@
 
 ## 모든 문제는 자바로 풀이.
 
+[백준 1080 행렬 실버 2 그리디](https://github.com/youngpark17/Algo/commit/1baee55ec5a52bbc4732308a565db3063e815a10)
 
 [백준 1248 골드 3 백트래킹](https://github.com/youngpark17/Algo/commit/1fe7dbfe660011a1d86f3463d8d9184b0dc53dc6)
 
