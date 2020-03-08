@@ -1,6 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 13460 구슬탈출2 골드3 백트래킹+시뮬레이션](https://github.com/youngpark17/Algo/commit/77f82c6042748cc53cc16e21c32c3ba8bc511075)
+static으로 설정한 변수를 파라미터로 바꾸면 되는 것을....
+
 [백준 2206 벽 부수고 이동하기 골드4 bfs](https://github.com/youngpark17/Algo/commit/8682e2db5357f8fe53a8da063af454828f475073)
 
 [백준 1080 행렬 실버 2 그리디](https://github.com/youngpark17/Algo/commit/1baee55ec5a52bbc4732308a565db3063e815a10)
