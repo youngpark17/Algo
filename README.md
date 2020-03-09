@@ -1,6 +1,10 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+
+[백준 12919 A와 B 2 실버4 ](https://github.com/youngpark17/Algo/commit/370b163a6a10547a86380dea0aa8cac415d87a66)
+양심적으로 골드임... 난이도 설정 잘못된듯.
+
 [백준 13460 구슬탈출2 골드3 백트래킹+시뮬레이션](https://github.com/youngpark17/Algo/commit/77f82c6042748cc53cc16e21c32c3ba8bc511075)
 static으로 설정한 변수를 파라미터로 바꾸면 되는 것을....
 
