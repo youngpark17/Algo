@@ -1,6 +1,8 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 16954 움직이는 미로탈출.](https://github.com/youngpark17/Algo/commit/5b9b7bc4e143e391ae275f9e4b2f30a86ad2dba3)
+bfs 골드5지만 어렵게 느낌.
 
 [백준 12919 A와 B 2 실버4 ](https://github.com/youngpark17/Algo/commit/370b163a6a10547a86380dea0aa8cac415d87a66)
 양심적으로 골드임... 난이도 설정 잘못된듯.
