@@ -1,6 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 13397 구간 나누기 2](https://github.com/youngpark17/Algo/commit/a64158e2504cc940554f119007581424f8aa9025)
+파라메트릭 서치 실버3.... 못풀어서 블로그 봄 ..;;;;;;;;;;;
+
 [백준 16954 움직이는 미로탈출.](https://github.com/youngpark17/Algo/commit/5b9b7bc4e143e391ae275f9e4b2f30a86ad2dba3)
 bfs 골드5지만 어렵게 느낌.
 
