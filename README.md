@@ -1,6 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 10816 숫자카드2](https://github.com/youngpark17/Algo/commit/caf52fe13ed187ce9219dd975bf651907e8246fc)
+이분 탐색 할 필요 없음 배열로 체크하자.
+
 [백준 2512 예산](https://github.com/youngpark17/Algo/commit/0434a2d66814e209f276d0b0ace93d1b7079826d)
 예산의 상한선을 구하는 문제.
 이분탐색을 하면서 남는 금액을 계속 줄이기 + 남는 금액은 0이상. 
