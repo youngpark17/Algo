@@ -1,6 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 2110 공유기 설치](https://github.com/youngpark17/Algo/commit/47a66022f94df3e79d9433d786b25ec02b4e2ca6)
+파라메트릭 서치, 최소의 거리차이 기준으로 이분 탐색.
+
 [백준 10816 숫자카드2](https://github.com/youngpark17/Algo/commit/caf52fe13ed187ce9219dd975bf651907e8246fc)
 이분 탐색 할 필요 없음 배열로 체크하자.
 
