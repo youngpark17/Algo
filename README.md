@@ -1,6 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 1620 나는야 포켓몬 마스터 이다솜](https://github.com/youngpark17/Algo/commit/ad51a34707f32d2ecf60f4f780db44bb51f9d112)
+해시
+
 [백준 2110 공유기 설치](https://github.com/youngpark17/Algo/commit/47a66022f94df3e79d9433d786b25ec02b4e2ca6)
 파라메트릭 서치, 최소의 거리차이 기준으로 이분 탐색.
 
