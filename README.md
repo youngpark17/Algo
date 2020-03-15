@@ -1,6 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
 
 ## 모든 문제는 자바로 풀이.
+[백준 13164 행복 유치원](https://github.com/youngpark17/Algo/commit/0699eaa67cd85a92647dd2f05ea6dab7d9cbcf9e)
+나는 그리디 다른 사람들은 DP로 품. DP로 풀어야 할 듯
+
 [백준 1620 나는야 포켓몬 마스터 이다솜](https://github.com/youngpark17/Algo/commit/ad51a34707f32d2ecf60f4f780db44bb51f9d112)
 해시
 
