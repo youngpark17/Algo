@@ -1,34 +1,9 @@
 # 백준+이외 프로그래머스 등등 문제 푼거 정리
+![](https://i.imgur.com/XXXUt41.jpg)
+![](https://i.imgur.com/esVpcLO.jpg)
+
 
 ## 모든 문제는 자바로 풀이.
-[백준 13164 행복 유치원](https://github.com/youngpark17/Algo/commit/0699eaa67cd85a92647dd2f05ea6dab7d9cbcf9e)
-나는 그리디 다른 사람들은 DP로 품. DP로 풀어야 할 듯
-
-[백준 1620 나는야 포켓몬 마스터 이다솜](https://github.com/youngpark17/Algo/commit/ad51a34707f32d2ecf60f4f780db44bb51f9d112)
-해시
-
-[백준 2110 공유기 설치](https://github.com/youngpark17/Algo/commit/47a66022f94df3e79d9433d786b25ec02b4e2ca6)
-파라메트릭 서치, 최소의 거리차이 기준으로 이분 탐색.
-
-[백준 10816 숫자카드2](https://github.com/youngpark17/Algo/commit/caf52fe13ed187ce9219dd975bf651907e8246fc)
-이분 탐색 할 필요 없음 배열로 체크하자.
-
-[백준 2512 예산](https://github.com/youngpark17/Algo/commit/0434a2d66814e209f276d0b0ace93d1b7079826d)
-예산의 상한선을 구하는 문제.
-이분탐색을 하면서 남는 금액을 계속 줄이기 + 남는 금액은 0이상. 
-
-[백준 1654 랜선 자르기](https://github.com/youngpark17/Algo/commit/368fddfebc1c07d3d5931b7b0d72ddb56c328395)
-파라메트릭 서치 랜선의 최대값 구하기. 최소의 최대를 구하는 문제. 
-
-[백준 13397 구간 나누기 2](https://github.com/youngpark17/Algo/commit/a64158e2504cc940554f119007581424f8aa9025)
-파라메트릭 서치 실버3.... 못풀어서 블로그 봄 ..;;;;;;;;;;;
-
-[백준 16954 움직이는 미로탈출.](https://github.com/youngpark17/Algo/commit/5b9b7bc4e143e391ae275f9e4b2f30a86ad2dba3)
-bfs 골드5지만 어렵게 느낌.
-
-[백준 12919 A와 B 2 실버4 ](https://github.com/youngpark17/Algo/commit/370b163a6a10547a86380dea0aa8cac415d87a66)
-양심적으로 골드임... 난이도 설정 잘못된듯.
-
 [백준 13460 구슬탈출2 골드3 백트래킹+시뮬레이션](https://github.com/youngpark17/Algo/commit/77f82c6042748cc53cc16e21c32c3ba8bc511075)
 static으로 설정한 변수를 파라미터로 바꾸면 되는 것을....
 
