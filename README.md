@@ -3,10 +3,13 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 
 
-## 모든 문제는 자바로 풀이.
+## 모든 문제는 자바로 풀이
+[백준 2636 치즈](https://github.com/youngpark17/Algo/commit/46fb66daeba763bbc90ca5ff441ff5ffbe2c352e)
+항상 비어있는 칸 기준으로 bfs 돌리면 된다... 디버깅 안될땐 그냥 다시 풀자...
+
 [백준 4149 큰 수 소인수 분해](https://github.com/youngpark17/Algo/commit/b5d0fd4709cfdaddf34c8af75cc91b2cfddf88ff)
 이게 플레2인데 내가 맞은걸 보면 테스트케이스 빈약한듯...?
-에라토스테네스의 체...
+에라토스테네스의 체...아... 158개중 30개만 맞음...
 [백준 13460 구슬탈출2 골드3 백트래킹+시뮬레이션](https://github.com/youngpark17/Algo/commit/77f82c6042748cc53cc16e21c32c3ba8bc511075)
 static으로 설정한 변수를 파라미터로 바꾸면 되는 것을....
 
