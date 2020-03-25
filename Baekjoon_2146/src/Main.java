@@ -1,7 +1,8 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
@@ -12,6 +13,7 @@ public class Main {
 	static int[][] map;
 	static int min = Integer.MAX_VALUE;
 	static boolean[][] visited;
+	static List<Node>[] list;
 	
 
 	public static void main(String[] args) throws Exception {
@@ -26,82 +28,110 @@ public class Main {
 				map[i][j] = Integer.parseInt(st.nextToken());
 			}
 		}
-		int cnt=2; //섬은 2번부터
+		int islandCount=2;
 		for(int i=0; i<n; i++) {
 			for(int j=0; j<n; j++) {
 				if(map[i][j]==1) {
-					dfs(i,j,cnt++);
+					bfs(i,j,islandCount++);
 				}
 			}
 		}
-		//다른 번호인 섬을 만날때까지... dfs돌리고 길이는 depth로 가자..
-		for(int i=0; i<n; i++) {
+		list = new List[islandCount-2];
+		for(int i=0; i<list.length; i++) {
+			list[i] = new ArrayList<>();
+		}
+		loop:for(int i=0; i<n; i++) {
 			for(int j=0; j<n; j++) {
-				if(map[i][j]!=0 ) { //섬과 붙어있는 0을 기준으로...
-					for(int t=0; t<4; t++) {
-						int nx = i+dx[t];
-						int ny = j+dy[t];
-						if(nx>=0 && ny>=0 && nx<=n-1 && ny<=n-1) {
-							if(map[nx][ny]==0&& !visited[nx][ny]) {
-								visited[nx][ny] = true;
-								bfs(nx,ny,0,map[i][j]);
-							}
-						}
-					}
-					for(int r=0; r<n; r++) {
-						Arrays.fill(visited[r], false);
-					}
-					
+				if(map[i][j]==0) {
+					bfs2(i,j);
 				}
 			}
 		}
-		System.out.println(min);
+		//섬에 번호를 메기고 섬의 바깥쪽에 있는 것들의 좌표를 전부 구하고.. 
+		// -1은 바다 
+		int dst = Integer.MAX_VALUE;
+		for(int i=0; i<islandCount-3; i++) { //i번째 list원소와 모든 리스트의 원소와 비교.
+			for(int j=i+1; j<islandCount-2; j++) {
+				
+				for(int k=0; k<list[i].size(); k++) {
+					Node t1 = list[i].get(k);
+					for(int k2=0; k2<list[j].size(); k2++) {
+						Node t2 = list[j].get(k2);
+						int distance = Math.abs(t1.x-t2.x)+Math.abs(t1.y-t2.y);
+						dst = Math.min(dst, distance);
+					}
+				}
+				
+				
+			}
+		}
 		
-		
+		System.out.println(dst-1);
 	}
 	
-	public static void dfs(int x, int y, int num) {
-		map[x][y] = num;
-		for(int i=0; i<4; i++) {
-			int nx = dx[i]+x;
-			int ny = dy[i]+y;
-			if(nx<0 || ny<0 ||nx>n-1 ||ny>n-1 || map[nx][ny]!=1) {
-				continue;
-			}
-			dfs(nx,ny,num);
-		}
-		
-	}
-	public static void bfs(int x, int y, int depth, int num) {
-		Node z = new Node(x,y,0);
+	public static void bfs(int x, int y, int num) {
+		Node a = new Node(x,y);
 		Queue<Node> que = new LinkedList<>();
-		que.add(z);
+		que.add(a);
+		map[x][y]=num;
 		while(!que.isEmpty()) {
 			Node t = que.poll();
-			if(map[t.x][t.y]!=num &&map[t.x][t.y]!=0) {
-				min = Math.min(t.d, min);
-				return;
-			}
 			for(int i=0; i<4; i++) {
 				int nx = t.x+dx[i];
 				int ny = t.y+dy[i];
-				if(nx>=0 &&ny>=0 && nx<=(n-1) && ny<=n-1 && !visited[nx][ny]) {
-					visited[nx][ny] = true;
-					que.add(new Node(nx,ny,t.d+1));
+				if(nx>=0 && ny>=0 && nx<n && ny<n) {
+					if(map[nx][ny]==1) {
+						map[nx][ny]=num;
+						que.add(new Node(nx,ny));
+					}
 				}
 			}
 		}
 	}
-
+	
+	public static void bfs2(int x, int y) {
+		Node a = new Node(x,y);
+		Queue<Node> que = new LinkedList<>();
+		que.add(a);
+		map[x][y]=-1;
+		while(!que.isEmpty()) {
+			Node t = que.poll();
+			for(int i=0; i<4; i++) {
+				int nx = t.x+dx[i];
+				int ny = t.y+dy[i];
+				if(nx>=0 && ny>=0 && nx<n && ny<n) {
+					if(map[nx][ny]==0) {
+						map[nx][ny]=-1;
+						que.add(new Node(nx,ny));
+					}
+					else if(map[nx][ny]>0 &&map[nx][ny]!=1) {
+						list[map[nx][ny]-2].add(new Node(nx,ny));
+						map[nx][ny]=1;
+					}
+				}
+			}
+		}
+	}
+	
+	public static void print() {
+		for(int i=0; i<n; i++) {
+			for(int j=0; j<n; j++) {
+				System.out.print(map[i][j]+" ");
+			}
+			System.out.println();
+		}
+		System.out.println();
+	}
+	
 }
+
 
 class Node{
 	int x;
 	int y;
-	int d;
-	Node(int x, int y, int d){
+	
+	Node(int x, int y){
 		this.x=x;
 		this.y=y;
-		this.d=d;
 	}
 }
