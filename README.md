@@ -4,10 +4,14 @@
 
 
 ## 모든 문제는 자바로 풀이
-[백준 2636 치즈 골드 3](https://github.com/youngpark17/Algo/commit/46fb66daeba763bbc90ca5ff441ff5ffbe2c352e)
+
+[백준 2752 보이는 점의 개수](https://github.com/youngpark17/Algo/commit/023998ac8163cfa7e3b522ce235495fd41985f95)
+테스트 케이스가 여러개 들어오므로 메모리제이션 활용하면 되는 것을...
+
+[백준 2636 치즈](https://github.com/youngpark17/Algo/commit/46fb66daeba763bbc90ca5ff441ff5ffbe2c352e)
 항상 비어있는 칸 기준으로 bfs 돌리면 된다... 디버깅 안될땐 그냥 다시 풀자...
 
-[백준 4149 큰 수 소인수 분해 플레티넘2 unsol](https://github.com/youngpark17/Algo/commit/b5d0fd4709cfdaddf34c8af75cc91b2cfddf88ff)
+[백준 4149 큰 수 소인수 분해](https://github.com/youngpark17/Algo/commit/b5d0fd4709cfdaddf34c8af75cc91b2cfddf88ff)
 이게 플레2인데 내가 맞은걸 보면 테스트케이스 빈약한듯...?
 에라토스테네스의 체...아... 158개중 30개만 맞음...
 [백준 13460 구슬탈출2 골드3 백트래킹+시뮬레이션](https://github.com/youngpark17/Algo/commit/77f82c6042748cc53cc16e21c32c3ba8bc511075)
