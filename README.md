@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 2146 다리만들기 골드4](https://github.com/youngpark17/Algo/commit/073ce595b13f35daf2762bbfcb481b86dbd5b12d)
+bfs, dfs
+
 [백준 17136 색종이 붙이기 골드3](https://github.com/youngpark17/Algo/commit/1c77ade61c8328b07d11e278c00c7f88bed7e776)
 백트래킹과 그리디.
 
