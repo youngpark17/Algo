@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 18808 스티커붙이기 골드3](https://github.com/youngpark17/Algo/commit/a463eff5b6806d5c8dd9ee816c0c3bc4fcc079a1)
+시뮬레이션
+
 
 [백준 2146 다리만들기 골드4](https://github.com/youngpark17/Algo/commit/073ce595b13f35daf2762bbfcb481b86dbd5b12d)
 bfs, dfs
