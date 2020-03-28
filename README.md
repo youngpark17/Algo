@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 2573 빙산 골드4](https://github.com/youngpark17/Algo/commit/2d1b2e0f7b1e62ec0cc7a8ec0d16172c35093f35)
+dfs,bfs,시뮬
 [백준 2468 안전영역 실버1](https://github.com/youngpark17/Algo/commit/0446b17d8effd950ea8ff33a460583b4f09848fd)
 힐링문제
 
