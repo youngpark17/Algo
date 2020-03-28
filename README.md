@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 2644 촌수계산 실버2](https://github.com/youngpark17/Algo/commit/950beaa1320d2b9ff52ab573a20784d4a71a8c25)
+힐링문제
+
 [백준 2606 바이러스 실버2](https://github.com/youngpark17/Algo/commit/b048692114af6fd06205d9ad862a0d4050d07414)
 힐링문제
 
