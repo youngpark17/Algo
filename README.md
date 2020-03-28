@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2606 숨바꼭질 실버1](https://github.com/youngpark17/Algo/commit/d83e27b3405ae7e2a330dd8a260b0c718eb1ee0b)
+힐링문제
+
 
 [백준 2644 촌수계산 실버2](https://github.com/youngpark17/Algo/commit/950beaa1320d2b9ff52ab573a20784d4a71a8c25)
 힐링문제
