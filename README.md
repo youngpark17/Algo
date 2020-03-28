@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2468 안전영역 실버1](https://github.com/youngpark17/Algo/commit/0446b17d8effd950ea8ff33a460583b4f09848fd)
+힐링문제
+
 [백준 5014 스타트와 링크 골드5](https://github.com/youngpark17/Algo/commit/17d9ea50f1250558c55b6659924546956bd170d3)
 힐링문제
 
