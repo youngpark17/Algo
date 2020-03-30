@@ -5,7 +5,11 @@
 
 ## 모든 문제는 자바로 풀이
 
-[백준 12101 1,2,3 더하기 2](https://github.com/youngpark17/Algo/commit/04a7bb4c034125c52155f4711e012699ed99c30b)
+[백준 12101 1,2,3 더하기 3 실버2](https://github.com/youngpark17/Algo/commit/b087178f24b0ebdc95f6d714c41d9eced607362d)
+
+dp[i] = dp[i-1]+dp[i-2]+dp[i-3]
+
+[백준 12101 1,2,3 더하기 2 실버1](https://github.com/youngpark17/Algo/commit/04a7bb4c034125c52155f4711e012699ed99c30b)
 
 백준 12101 1,2,3 더하기 2 실버1
 String.split()은 인자로 정규표현식을 받고, 따라서 .으로 나눌경우 \\.를 인자로 넣어야한다.
