@@ -5,7 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
-[백준 9205 맥주마시면서 걸어가기](https://github.com/youngpark17/Algo/commit/6389c3851df803030c3b8aa331971dbf04f5d2d1)
+[백준 14267 내리 갈굼 골드 4](https://github.com/youngpark17/Algo/commit/ceb4e78de51d63aa1cf38e65f530e0a460992701)
+dfs, 매 쿼리에 대해서 돌리지말고 배열에 누적해놓고 한번에 처리.
+
+[백준 9205 맥주마시면서 걸어가기 골드4](https://github.com/youngpark17/Algo/commit/6389c3851df803030c3b8aa331971dbf04f5d2d1)
 bfs
 
 [백준 2573 빙산 골드4](https://github.com/youngpark17/Algo/commit/2d1b2e0f7b1e62ec0cc7a8ec0d16172c35093f35)
