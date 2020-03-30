@@ -5,6 +5,12 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 12101 1,2,3 더하기 2](https://github.com/youngpark17/Algo/commit/04a7bb4c034125c52155f4711e012699ed99c30b)
+
+백준 12101 1,2,3 더하기 2 실버1
+String.split()은 인자로 정규표현식을 받고, 따라서 .으로 나눌경우 \\.를 인자로 넣어야한다.
+StringTokenizer는 문자를 하나씩 쪼갠다.
+
 [백준 17478 재귀함수가 뭔가요 실버5](https://github.com/youngpark17/Algo/commit/56b97419f5171e368c39bf68d0636d8c605f31b9)
 "\ 로 따옴표 쓰기
 
