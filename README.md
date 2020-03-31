@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 13544 수열과 쿼리3 플레3](https://github.com/youngpark17/Algo/commit/23ecb3c99cd3be0bbf25e77e6277fdc890170205)
+세그먼트 트리+바이너리 서치 + 머지소트
+
 [백준 2357 최소값 최대값 플레5](https://github.com/youngpark17/Algo/commit/447c56c017588a934d0f155b9010e78bc32aaf91)
 세그먼트 트리
 
