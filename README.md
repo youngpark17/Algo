@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 14438 수열과 쿼리 17 플레5](https://github.com/youngpark17/Algo/commit/71c4f9042ecc4b80fa70fae78ee700dcf8dc9556)
+최소값 구하는 세그먼트 트리
+
 [백준 14427 수열과 쿼리 16 플레5](https://github.com/youngpark17/Algo/commit/eacb5639f7dc3fcad9fdd6486a0a8423f12ae310)
 14427에 구간에 대한 처리 추가
 
