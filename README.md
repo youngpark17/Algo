@@ -5,6 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 14427 수열과 쿼리 15 골드1](https://github.com/youngpark17/Algo/commit/e184dcfb7329934473b25611e9bd3bc192e2fb32)
+세그먼트 트리
+구간에 대한 최소값의 인덱스.
+
 [백준 12101 1,2,3 더하기 3 실버2](https://github.com/youngpark17/Algo/commit/b087178f24b0ebdc95f6d714c41d9eced607362d)
 
 dp[i] = dp[i-1]+dp[i-2]+dp[i-3]
