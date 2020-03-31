@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 14427 수열과 쿼리 16 플레5](https://github.com/youngpark17/Algo/commit/eacb5639f7dc3fcad9fdd6486a0a8423f12ae310)
+14427에 구간에 대한 처리 추가
+
 
 [백준 13537 수열과 쿼리 1 플레4](https://github.com/youngpark17/Algo/commit/4956c6dac5a5fbea57c08caf272911bf9499c3c5)
 머지소트트리
