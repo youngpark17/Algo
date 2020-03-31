@@ -4,6 +4,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2357 최소값 최대값 플레5](https://github.com/youngpark17/Algo/commit/447c56c017588a934d0f155b9010e78bc32aaf91)
+세그먼트 트리
 
 [백준 14438 수열과 쿼리 17 플레5](https://github.com/youngpark17/Algo/commit/71c4f9042ecc4b80fa70fae78ee700dcf8dc9556)
 최소값 구하는 세그먼트 트리
