@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 13537 수열과 쿼리 1 플레4](https://github.com/youngpark17/Algo/commit/4956c6dac5a5fbea57c08caf272911bf9499c3c5)
+머지소트트리
+
 [백준 14427 수열과 쿼리 15 골드1](https://github.com/youngpark17/Algo/commit/e184dcfb7329934473b25611e9bd3bc192e2fb32)
 세그먼트 트리
 구간에 대한 최소값의 인덱스.
