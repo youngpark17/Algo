@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 16975 수열과 쿼리 21 플레4](https://github.com/youngpark17/Algo/commit/16b5f4494da47ce153efd04ca1bf542e35a804a7)
+세그먼트 트리 with lazy propagation
+
+## 모든 문제는 자바로 풀이
 [백준 13544 수열과 쿼리3 플레3](https://github.com/youngpark17/Algo/commit/23ecb3c99cd3be0bbf25e77e6277fdc890170205)
 세그먼트 트리+바이너리 서치 + 머지소트
 
