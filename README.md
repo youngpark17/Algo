@@ -4,6 +4,11 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 10999 구간합 구하기 2 플레4](https://github.com/youngpark17/Algo/commit/012cb11120f16328a5669bb059d26d41b2e59730)
+
+세그먼트 트리 with lazy propagation
+
 [백준 18463 수열과 쿼리 37 플레5](https://github.com/youngpark17/Algo/commit/012cb11120f16328a5669bb059d26d41b2e59730)
 세그먼트 트리
 
