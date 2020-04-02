@@ -5,6 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 17143 낚시왕 골드3](https://github.com/youngpark17/Algo/commit/b8ae8f52a50c163d7d54c9838405443772ebd21b)
+낚시왕... 디버깅....
+
+
 [백준 11660 구간합 구하기 3 플레5](https://github.com/youngpark17/Algo/commit/d24b57300ba07592f109afbf68a193b640fdd444)
 
 prefixSum으로 풀었다. 펜윅 트리로 다시 풀어봐야할듯... 시간이..
