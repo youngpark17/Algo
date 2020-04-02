@@ -4,6 +4,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 1715 카드 정렬하기 골드4](https://github.com/youngpark17/Algo/commit/c04aaf4841dce3490cdef696b11001f381c453d0)
+기초문제
 
 [백준 17143 낚시왕 골드3](https://github.com/youngpark17/Algo/commit/b8ae8f52a50c163d7d54c9838405443772ebd21b)
 낚시왕... 디버깅....
