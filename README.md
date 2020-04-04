@@ -4,6 +4,11 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 14268 내리갈굼2 플레3](https://github.com/youngpark17/Algo/commit/764d8a08fd1520b8a9c6dc8423409603c2a51175)
+
+펜윅 트리 + dfs를 이용한 트리 부모자식 체크
+
 [백준 1715 카드 정렬하기 골드4](https://github.com/youngpark17/Algo/commit/c04aaf4841dce3490cdef696b11001f381c453d0)
 기초문제
 
