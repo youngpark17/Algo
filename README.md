@@ -5,8 +5,11 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 14288 내리 갈굼4 플레3](https://github.com/youngpark17/Algo/commit/ff79cc5d527cf1acf47034040c047b7ab2a16b3b)
+펜윅트리 + dfs 트리번호 메기기 O(n+mlogn)
+
 [백준 14287 내리갈굼3 플레 4](https://github.com/youngpark17/Algo/commit/f5671ac4ccd520b01e005010e00db8830ecc357a)
-전위순회로 트리 만들기 + 펜윅트리 O(n+m)
+전위순회로 트리 만들기 + 펜윅트리 O(n+mlogn)
 
 [백준 14268 내리갈굼2 플레3](https://github.com/youngpark17/Algo/commit/764d8a08fd1520b8a9c6dc8423409603c2a51175)
 
