@@ -4,6 +4,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 17626 Four Squares  실버5](https://github.com/youngpark17/Algo/commit/4434c7cccd40ac68f697df88f1a0802e7d1da4cc)
+O(n^2) dp
 
 [백준 1699 제곱수의 합  실버3](https://github.com/youngpark17/Algo/commit/5bf2ef8cabcbc5c1ee2130a5ea4dbfed7227e29d)
 O(n^2) dp
