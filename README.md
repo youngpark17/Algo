@@ -5,7 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
-[백준 2061 좋은 암호 브론즈3](https://github.com/youngpark17/Algo)
+[백준 1699 제곱수의 합  실버3](https://github.com/youngpark17/Algo/commit/5bf2ef8cabcbc5c1ee2130a5ea4dbfed7227e29d)
+O(n^2) dp
+[백준 2061 좋은 암호 브론즈3](https://github.com/youngpark17/Algo/commit/0e27fc82896fc4f2269c887d556239220a69b60d)
+O(n^2)
 에라토스테네스의 체 i*i하면 overflow날 수도 있다.
 큰 수 나누어 떨어지는 지 확인 방법.
 
