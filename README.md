@@ -5,6 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 2061 좋은 암호 브론즈3](https://github.com/youngpark17/Algo)
+에라토스테네스의 체 i*i하면 overflow날 수도 있다.
+큰 수 나누어 떨어지는 지 확인 방법.
+
 [백준 14288 내리 갈굼4 플레3](https://github.com/youngpark17/Algo/commit/ff79cc5d527cf1acf47034040c047b7ab2a16b3b)
 펜윅트리 + dfs 트리번호 메기기 O(n+mlogn)
 
