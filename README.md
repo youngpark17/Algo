@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 14890 경사로 골드4]
+https://github.com/youngpark17/Algo/commit/3f968cca6ab3c41c048265d98a78683d438bfb49
+시뮬 O(n^2)
 
 [백준 15685 드래곤커브  골드4](https://github.com/youngpark17/Algo/commit/23fd707a2e541898d337e09a95745f8638032f30)
 시뮬 O(n^2)
