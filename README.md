@@ -4,6 +4,11 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 17825 주사위 윷놀이 골드2]
+
+중복순열 + 시뮬, 괄호를 쓰자.
+https://github.com/youngpark17/Algo/commit/d14eb760ffe634b33ce7c72a4730465bda01cad0
+
 [백준 14890 경사로 골드4]
 https://github.com/youngpark17/Algo/commit/3f968cca6ab3c41c048265d98a78683d438bfb49
 시뮬 O(n^2)
