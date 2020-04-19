@@ -4,6 +4,11 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 18809 Gaaaaaaaaaaarden 골드1]
+
+시뮬+dfs+bfs
+https://github.com/youngpark17/Algorithm/commit/b0ffc1f509edba8cf8c513e1b8b231bad0f95d2d
+
 [백준 17825 주사위 윷놀이 골드2]
 
 중복순열 + 시뮬, 괄호를 쓰자.
