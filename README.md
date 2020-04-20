@@ -4,18 +4,20 @@
 
 
 ## 모든 문제는 자바로 풀이
-[백준 18809 Gaaaaaaaaaaarden 골드1]
+
+[백준 17837 새로운 게임2 골드2](https://github.com/youngpark17/Algorithm/commit/9b59f5a04da1d6811518c8bb13560490ba933a62)
+...나의 하루를 너에게 바쳤다.  시뮬레이션 구현
+
+[백준 18809 Gaaaaaaaaaaarden 골드1](https://github.com/youngpark17/Algorithm/commit/b0ffc1f509edba8cf8c513e1b8b231bad0f95d2d)
 
 시뮬+dfs+bfs
-https://github.com/youngpark17/Algorithm/commit/b0ffc1f509edba8cf8c513e1b8b231bad0f95d2d
 
-[백준 17825 주사위 윷놀이 골드2]
 
+[백준 17825 주사위 윷놀이 골드2](https://github.com/youngpark17/Algo/commit/d14eb760ffe634b33ce7c72a4730465bda01cad0)
 중복순열 + 시뮬, 괄호를 쓰자.
-https://github.com/youngpark17/Algo/commit/d14eb760ffe634b33ce7c72a4730465bda01cad0
 
-[백준 14890 경사로 골드4]
-https://github.com/youngpark17/Algo/commit/3f968cca6ab3c41c048265d98a78683d438bfb49
+
+[백준 14890 경사로 골드4](https://github.com/youngpark17/Algo/commit/3f968cca6ab3c41c048265d98a78683d438bfb49)
 시뮬 O(n^2)
 
 [백준 15685 드래곤커브  골드4](https://github.com/youngpark17/Algo/commit/23fd707a2e541898d337e09a95745f8638032f30)
@@ -92,9 +94,10 @@ prefixSum으로 풀었다. 펜윅 트리로 다시 풀어봐야할듯... 시간�
 
 dp[i] = dp[i-1]+dp[i-2]+dp[i-3]
 
-[백준 12101 1,2,3 더하기 2 실버1](https://github.com/youngpark17/Algo/commit/04a7bb4c034125c52155f4711e012699ed99c30b)
+[백준 12101 1,2,3 더하기 2 실버](https://github.com/youngpark17/Algo/commit/04a7bb4c034125c52155f4711e012699ed99c30b)
 
-백준 12101 1,2,3 더하기 2 실버1
+[백준 12101 1,2,3 더하기 2 실버1]
+
 String.split()은 인자로 정규표현식을 받고, 따라서 .으로 나눌경우 \\.를 인자로 넣어야한다.
 StringTokenizer는 문자를 하나씩 쪼갠다.
 
