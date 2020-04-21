@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 17779 게리멘더링2 골드4](https://github.com/youngpark17/Algorithm/commit/9b5fb5e139871fa0a555656c8c2cdf6d77402be1)
+완탐, 구현 
+
 [백준 11438 LCA2 플레5](https://github.com/youngpark17/Algorithm/commit/ac494b3dde7165a72f78a58361e27efdc59ffbfe)
 LCA O(m*logn) 2^i만큼의 부모를 저장해놓자.
 parents[i][j] = parents[parents[i][j-1]][j-1]
