@@ -5,6 +5,13 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 11438 LCA2 플레5](https://github.com/youngpark17/Algorithm/commit/ac494b3dde7165a72f78a58361e27efdc59ffbfe)
+LCA O(m*logn) 2^i만큼의 부모를 저장해놓자.
+parents[i][j] = parents[parents[i][j-1]][j-1]
+node i의 2^j번째 부모 업데이트는 node i의 2^j-1번째 부모에서 다시 2^j-1번째 만큼 더 가면된다.
+node가 최악의 경우 일렬로 7개만큼 있다면 2^i번째 부모를 담는 배열의 크기는 1번째 2번째 4번째까지만 구하면 충분.
+k = Math.ceil(Math.logn/Math.log2)
+
 [백준 17837 새로운 게임2 골드2](https://github.com/youngpark17/Algorithm/commit/9b59f5a04da1d6811518c8bb13560490ba933a62)
 ...나의 하루를 너에게 바쳤다.  시뮬레이션 구현
 
