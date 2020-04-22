@@ -5,6 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 2188 축사배정 플레4](https://github.com/youngpark17/Algorithm/commit/2f359cec949269693d0a38692c4892a77623b8ab)
+이분매칭 최대 유량 dfs이용 O(v*e)
+
+
 [백준 11375 열혈강호 플레4](https://github.com/youngpark17/Algorithm/commit/c059aaa9bac4468f04c881f3f1fc54836018d16e)
 이분매칭 네트워크 플로우 dfs이용 O(v*e)
 
