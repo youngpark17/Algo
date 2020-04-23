@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 16985 Maaaaaaaaaze 골드3](https://github.com/youngpark17/Algorithm/commit/e6b19c0d8aabd2ab1dfe7d51248b8d21d8ce132b)
+순열 + bfs + 구현
+
 [백준 2188 열혈강호2 플레4](https://github.com/youngpark17/Algorithm/commit/1dbb8d4f29684b70487f36f0a6be6b8859e89389)
 이분매칭 최대 유량 dfs이용 O(v*e)
 
