@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 16988 Baaaaaaaaaduk2(Easy) 골드3](https://github.com/youngpark17/Algorithm/commit/e859a3e220eecab09650fa2687a9fac013245533)
+조합 + bfs + 구현
+
 [백준 16985 Maaaaaaaaaze 골드3](https://github.com/youngpark17/Algorithm/commit/e6b19c0d8aabd2ab1dfe7d51248b8d21d8ce132b)
 순열 + bfs + 구현
 
