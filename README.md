@@ -5,6 +5,10 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 16968 인싸들의 가위바위보 골드3](https://github.com/youngpark17/Algorithm/commit/335e44814708296c0168f1a9ed019e64d28bd23c)
+완탐+구현
+
+
 [백준 16988 Baaaaaaaaaduk2(Easy) 골드3](https://github.com/youngpark17/Algorithm/commit/e859a3e220eecab09650fa2687a9fac013245533)
 조합 + bfs + 구현
 
