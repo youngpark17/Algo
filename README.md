@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 1987 알파벳 골드4](https://github.com/youngpark17/Algorithm/commit/23844087590f3732097898d116fe7c58d5b1d63e)
+문제 잘 읽자... dfs
+
 [백준 11559 Puyo Puyo 골드5](https://github.com/youngpark17/Algorithm/commit/0a1f0d6344e0a1d0d53ce3c4fb5657728dec06d2)
 완탐+구현
 
