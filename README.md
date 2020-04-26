@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 1039 교환 골드3](https://github.com/youngpark17/Algorithm/commit/2940b8a6325fd4298aca19a9b9329d44d4754507)
+bfs, dfs 메모제이션
+
 [백준 1516 게임 개발 골드3](https://github.com/youngpark17/Algorithm/commit/1972598b73d74b59b0b248aaf6b5e708e90f6ab7)
 위상 정렬
 
