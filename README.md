@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 1647 도시 분할 계획 골드4](https://github.com/youngpark17/Algorithm/commit/13b2acf0c8f594b82ab5d157bfc56e70bf4b130b)
+MST
+
 [백준 5676 음주 코딩 플레5](https://github.com/youngpark17/Algorithm/commit/8278c7fd60816a59d5160b5ebe95810c17804d82)
 부호 저장해서 푸는 세그먼트 펜윅ㅌ리 펜윅트리 풀이
 
