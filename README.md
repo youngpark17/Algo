@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 5676 음주 코딩 플레5](https://github.com/youngpark17/Algorithm/commit/8278c7fd60816a59d5160b5ebe95810c17804d82)
+부호 저장해서 푸는 세그먼트 펜윅ㅌ리 펜윅트리 풀이
+
 
 [백준 4991 로봇청소기 ](https://github.com/youngpark17/Algorithm/commit/be80eefa3dc3224dc021631554e52c94fb13887d)
 
