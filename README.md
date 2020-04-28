@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 2096 내려가기 골드4](https://github.com/youngpark17/Algorithm/commit/f92856053fe92da2d380f253dfb8d80385baaed2)
+슬라이딩 윈도우 dp
+
 [백준 11505 구간 곱 구하기 플레5](https://github.com/youngpark17/Algorithm/commit/4b98ec27b3fdb5179c21dea83df6fd992d8e39d4)
 세그트리
 
