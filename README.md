@@ -4,6 +4,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 11505 구간 곱 구하기 플레5](https://github.com/youngpark17/Algorithm/commit/4b98ec27b3fdb5179c21dea83df6fd992d8e39d4)
+세그트리
 
 [백준 11812 K진트리 골드3](https://github.com/youngpark17/Algorithm/commit/1c550bea1a8939cebc8ef866d34e3f5796199a09)
 완전 K진트리의 부모노드는 자식을 node라 했을때 root가 1일때
