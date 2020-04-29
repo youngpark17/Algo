@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2589 보물섬 골드5](https://github.com/youngpark17/Algorithm/commit/6744a7048101444dd680067e4f9de2522b580b56)
+bfs
+
 [백준 4179 불! 골드3](https://github.com/youngpark17/Algorithm/commit/666ca201c7b7446a1318eec9e33631d77ce9e4da)
 bfs
 
