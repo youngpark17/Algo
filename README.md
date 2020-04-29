@@ -4,6 +4,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 6549 히스토그램에서 가장 큰 사각형 골드1](https://github.com/youngpark17/Algorithm/commit/e7b3e03af9b34abee4ff64ed47740ceee982083d)
+O(nlogn)
+세그먼트 트리 + 분할정복 오버플로 조심하자..
+
 [백준 6416 트리인가? 골드5](https://github.com/youngpark17/Algorithm/commit/61165b128ed2cbd563ec8355145357bbc39f8ad7)
 트리 판별 dfs, or indegree edge 수 가지고도 가능할듯.
 
