@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 4179 불! 골드3](https://github.com/youngpark17/Algorithm/commit/666ca201c7b7446a1318eec9e33631d77ce9e4da)
+bfs
+
 [백준 6549 히스토그램에서 가장 큰 사각형 골드1](https://github.com/youngpark17/Algorithm/commit/e7b3e03af9b34abee4ff64ed47740ceee982083d)
 O(nlogn)
 세그먼트 트리 + 분할정복 오버플로 조심하자..
