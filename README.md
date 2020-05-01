@@ -4,8 +4,11 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2842 집배원 한상덕 플레5](https://github.com/youngpark17/Algorithm/commit/e02fd4d765d256ce9389ced895b864408c3c4ada)
+투포인터 +dfs, O(N^3)
+
 [백준 11003 최솟값 찾기 플레5](https://github.com/youngpark17/Algorithm/commit/52e7215189a60252ed578c0b017e132fdd2d587c)
-슬라이딩 윈도우 + 데큐
+슬라이딩 윈도우 + 데큐 O(n)
 
 [백준 2589 보물섬 골드5](https://github.com/youngpark17/Algorithm/commit/6744a7048101444dd680067e4f9de2522b580b56)
 bfs
