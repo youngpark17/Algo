@@ -5,6 +5,9 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 1072 게임  실버4](https://github.com/youngpark17/Algorithm/commit/76682d073e6f6bbc7fa7cd62fc8c130746cfb91e)
+이분탐색..... long double처리..?
+
 [백준 2517 달리기](https://github.com/youngpark17/Algorithm/commit/e02fd4d765d256ce9389ced895b864408c3c4ada)
 nlogn 펜윅트리+압축 수가 많을 경우에는 sort보다 parallelSort가 빠름.
 
