@@ -4,6 +4,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 1275 커피숍2 플레5](https://github.com/youngpark17/Algorithm/commit/b9cf84f0e1c7eb0f8a117f5f17bb5baac5459f39)
+펜윅트리 O(nlogn)
+
 [백준 3020 개똥벌레 골드5](https://github.com/youngpark17/Algorithm/commit/d4bd01adfacb233e9121b8141e1042c5ae042e74)
 prefixSum 사용 O(N+M)
 
