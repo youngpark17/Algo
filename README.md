@@ -4,7 +4,13 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 3020 개똥벌레 골드5](https://github.com/youngpark17/Algorithm/commit/d4bd01adfacb233e9121b8141e1042c5ae042e74)
+prefixSum 사용 O(N+M)
 
+[백준 1202 보석 도둑 골드2](https://github.com/youngpark17/Algorithm/commit/6f9515fcbf491a1703719a4c202b3ab35bca2cb1)
+트리맵과 우선순위 큐 사용
+map.tailMap(t.m).firstKey(); 이용하여 t.m보다 크거나 같은것 중에 젤 작은거 구해서 제거하고
+map의 value값을 통해 동일가방 사용 체크하자.
 
 [백준 1202 보석 도둑 골드2](https://github.com/youngpark17/Algorithm/commit/6f9515fcbf491a1703719a4c202b3ab35bca2cb1)
 트리맵과 우선순위 큐 사용
