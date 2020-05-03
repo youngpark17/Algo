@@ -5,6 +5,11 @@
 
 ## 모든 문제는 자바로 풀이
 
+
+[백준 1202 보석 도둑 골드2](https://github.com/youngpark17/Algorithm/commit/6f9515fcbf491a1703719a4c202b3ab35bca2cb1)
+트리맵과 우선순위 큐 사용
+map.tailMap(t.m).firstKey(); 이용하여 t.m보다 크거나 같은것 중에 젤 작은거 구해서 제거하고
+map의 value값을 통해 동일가방 사용 체크하자. 
 [백준 7453 합이 0인 네 정수](https://github.com/youngpark17/Algorithm/commit/663921b0ce0e20b43271dc417942b2967ef26ee9)
 백준 7453 합이 0인 네 정수 골드2
 해시로 풀었는데 신기하게 메모리초과도안나고.. 가까스로 통과 4000ms
