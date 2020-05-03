@@ -5,6 +5,11 @@
 
 ## 모든 문제는 자바로 풀이
 
+[백준 7453 합이 0인 네 정수](https://github.com/youngpark17/Algorithm/commit/663921b0ce0e20b43271dc417942b2967ef26ee9)
+백준 7453 합이 0인 네 정수 골드2
+해시로 풀었는데 신기하게 메모리초과도안나고.. 가까스로 통과 4000ms
+투포인터로 바꿔봐야할듯.
+
 [백준 2143 두 배열의 합 골드3](https://github.com/youngpark17/Algorithm/commit/1c7cfa835754a54935a87879bdaf092c299febb3)
 이분탐색,해시, 투포인터
 
