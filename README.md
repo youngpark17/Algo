@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[프로그래머스 124 나라의 숫자](https://github.com/youngpark17/Algorithm/commit/5e132e78cf44dd1cbab67e5c12a4e44b587d4d99)
+수학
+
 [백준 1275 커피숍2 플레5](https://github.com/youngpark17/Algorithm/commit/b9cf84f0e1c7eb0f8a117f5f17bb5baac5459f39)
 펜윅트리 O(nlogn)
 
