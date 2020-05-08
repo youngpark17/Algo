@@ -5,6 +5,10 @@
 
 
 ## 모든 문제는 자바로 풀이
+
+[백준 2343 기타 레슨 실버1](https://github.com/youngpark17/Algorithm/commit/b9a269261661f5b0b867fb517f95d9224b2206d1)
+파라메트릭 서치
+
 [프로그래머스 입국심사 레벨3](https://github.com/youngpark17/Algorithm/commit/f2602cad42dd60206c7d3844692cd3ebf142356e)
 이분탐색, 오버플로우 주의
 
