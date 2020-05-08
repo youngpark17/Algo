@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[프로그래머스 입국심사 레벨3](https://github.com/youngpark17/Algorithm/commit/f2602cad42dd60206c7d3844692cd3ebf142356e)
+이분탐색, 오버플로우 주의
+
 [프로그래머스 소수 찾기 레벨2](https://github.com/youngpark17/Algorithm/commit/65725a4c511ba73d388a848dbc64eaf4279bf4ba)
 에레토스테네스의 체  + 순열
 
