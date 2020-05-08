@@ -5,6 +5,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 3079 입국심사 실버2](https://github.com/youngpark17/Algorithm/commit/feb7e78dcb11cc0e761f671bec83bb5f99da31b1)
+파라메트릭 서치
 
 [백준 2343 기타 레슨 실버1](https://github.com/youngpark17/Algorithm/commit/b9a269261661f5b0b867fb517f95d9224b2206d1)
 파라메트릭 서치
