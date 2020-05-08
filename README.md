@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[프로그래머스 소수 찾기 레벨2](https://github.com/youngpark17/Algorithm/commit/65725a4c511ba73d388a848dbc64eaf4279bf4ba)
+에레토스테네스의 체  + 순열
+
 [프로그래머스 124 나라의 숫자 레벨2](https://github.com/youngpark17/Algorithm/commit/5e132e78cf44dd1cbab67e5c12a4e44b587d4d99)
 수학
 
