@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 6236 용돈관리 실버3](https://github.com/youngpark17/Algorithm/commit/b15824a441256f8aeb9c061a63178b7685d06254)
+파라메트릭 서치
+
 [백준 3079 입국심사 실버2](https://github.com/youngpark17/Algorithm/commit/feb7e78dcb11cc0e761f671bec83bb5f99da31b1)
 파라메트릭 서치
 
