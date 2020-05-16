@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 4195 친구 네트워크 골드2](https://github.com/youngpark17/Algorithm/commit/4014300c28778e98ce17a9f83fcc003309a34040)
+disjoint-set
+
 [백준 6236 용돈관리 실버3](https://github.com/youngpark17/Algorithm/commit/b15824a441256f8aeb9c061a63178b7685d06254)
 파라메트릭 서치
 
