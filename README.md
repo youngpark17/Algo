@@ -5,9 +5,12 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 10775 공항 골드1](https://github.com/youngpark17/Algorithm/commit/fecfc8dc5fa55f8ef2f13f5b022c8148d9a2bb07)
+treeset이용
 
 [백준 2661 좋은 수열 골드4](https://github.com/youngpark17/Algorithm/commit/0cce685a618fbfc35757d5c4be7102b8e5c66a25)
 백트래킹
+
 [백준 4195 친구 네트워크 골드2](https://github.com/youngpark17/Algorithm/commit/4014300c28778e98ce17a9f83fcc003309a34040)
 disjoint-set
 
