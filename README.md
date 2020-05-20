@@ -5,6 +5,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 5052 전화번호 목록 골드3](https://github.com/youngpark17/Algorithm/commit/db370ce247bb0bdac1b068ea95992c55f3aada0a)
+정렬
 [백준 9935 문자열폭발 골드4](https://github.com/youngpark17/Algorithm/commit/e7dcea51d81e7b55173ca1e50cd1dc6089d61652)
 문자열처리 스택
 
