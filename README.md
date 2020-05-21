@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2866 문자열 잘라내기 골드5](https://github.com/youngpark17/Algorithm/commit/521680194b9fe6fedec110cbb5952a02867cc400)
+문자열 처리 이분탐색
+
 [백준 5052 전화번호 목록 골드3](https://github.com/youngpark17/Algorithm/commit/db370ce247bb0bdac1b068ea95992c55f3aada0a)
 정렬
 [백준 9935 문자열폭발 골드4](https://github.com/youngpark17/Algorithm/commit/e7dcea51d81e7b55173ca1e50cd1dc6089d61652)
