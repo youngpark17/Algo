@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2892 심심한 준규 골드4](https://github.com/youngpark17/Algorithm/commit/51abeb1396fa42bc33cef63163ca5d7977a7532b)
+문자열 처리
+
 [백준 2866 문자열 잘라내기 골드5](https://github.com/youngpark17/Algorithm/commit/521680194b9fe6fedec110cbb5952a02867cc400)
 문자열 처리 이분탐색
 
