@@ -5,7 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
-
+[백준 2170 선긋기 골드5](https://github.com/youngpark17/Algorithm/commit/353e842274053dda1a5853505cee7431fdbba01d)
+라인 스위핑 ... list정렬이 왜 배열 정룔보다 왜 빠를까?
+parellerSort는 좀 느리네..?
 
 [백준 16929 Two Dots 골드4](https://github.com/youngpark17/Algorithm/commit/70a47f6170892c92b0e655153c8cb48be1eb3baa)
 그래프 싸이클 판별 dfs
