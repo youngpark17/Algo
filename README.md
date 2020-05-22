@@ -5,6 +5,8 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2268 수들의 합 플레5](https://github.com/youngpark17/Algorithm/commit/8109f3a09bcb3cefedb50d1596db414ead853844)
+펜윅트리, 세그트리
 [백준 7578 공장 플레5](https://github.com/youngpark17/Algorithm/commit/f602735e690d6794f61091950b2b983f4097c312)
 펜윅트리 거꾸로 생각하자.
 [백준 8983 사냥꾼 골드4](https://github.com/youngpark17/Algorithm/commit/50803ca63f148d8d80bb430c2c9294bb5ea83523)
