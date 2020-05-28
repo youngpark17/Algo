@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 1043 거짓말 골드5](https://github.com/youngpark17/Algorithm/commit/dba65dc4ba5d6a894aadbe1d9ce53ad2d7da2874)
+시뮬 + disjoint-set
+
 [백준 2156 포도주시식 실버1](https://github.com/youngpark17/Algorithm/commit/b1578cfa6d904258e1cf0e579bf7e4abdd463b57)
 dp
 
