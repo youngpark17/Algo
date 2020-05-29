@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 6593 상범 빌딩 골드4](https://github.com/youngpark17/Algorithm/commit/04fbcee43152add6671e3c301a397761fbd1409c)
+bfs
+
 [백준 1043 거짓말 골드5](https://github.com/youngpark17/Algorithm/commit/dba65dc4ba5d6a894aadbe1d9ce53ad2d7da2874)
 시뮬 + disjoint-set
 
