@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2564 경비원 실버2](https://github.com/youngpark17/Algorithm/commit/6f9657a7fcc82766b1e0b55d583c18ffbb56a32b)
+case work
+
 [백준 2660 회장뽑기 골드5](https://github.com/youngpark17/Algorithm/commit/8d5368d807afd282e51d6ee49a74213840006c86)
 그래프
 
