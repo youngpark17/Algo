@@ -5,6 +5,9 @@
 
 
 ## 모든 문제는 자바로 풀이
+[백준 2023 신기한 소수 골드5](https://github.com/youngpark17/Algorithm/commit/e1b657bdabe2c3d371419c9063c98716b91d5508)
+백트래킹
+
 [백준 2564 경비원 실버2](https://github.com/youngpark17/Algorithm/commit/6f9657a7fcc82766b1e0b55d583c18ffbb56a32b)
 case work
 
